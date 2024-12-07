@@ -1,1 +1,4 @@
-# io.github.vr-voyage.quick-toggle.vrcfury by PouiposaurusRex
+# About
+
+This script allows you to setup multiple VRCFury item toggles in one-click.
+
