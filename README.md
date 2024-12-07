@@ -1,0 +1,1 @@
+# io.github.vr-voyage.quick-toggle.vrcfury by PouiposaurusRex

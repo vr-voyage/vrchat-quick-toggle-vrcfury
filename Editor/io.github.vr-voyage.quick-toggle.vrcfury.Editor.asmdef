@@ -1,0 +1,22 @@
+{
+    "name": "io.github.vr-voyage.quick-toggle.vrcfury.Editor",
+    "rootNamespace": "",
+    "references": [
+        "VRCFury",
+        "VRCFury-Editor",
+        "VRC.SDKBase.Editor",
+        "VRC.SDK3A.Editor",
+        "com.vrcfury.api"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
